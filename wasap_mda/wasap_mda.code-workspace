@@ -10,9 +10,13 @@
 			"titleBar.activeBackground": "#41228a",
 			"titleBar.activeForeground": "#ffffff"
 		},
-		"python.autoComplete.extraPaths": [],
+		"python.autoComplete.extraPaths": [
+			"C:/Users/milto/.virtualenvs/wasap_mda-GRRYrXCK/Lib/site-packages"
+		],
 		// PATHS DE PYTHONPATH
-		"python.analysis.extraPaths": [],
+		"python.analysis.extraPaths": [
+			"C:/Users/milto/.virtualenvs/wasap_mda-GRRYrXCK/Lib/site-packages"
+		],
 		"autopep8.args": [
 			"--max-line-length=99",
 			"--ignore=E402"
